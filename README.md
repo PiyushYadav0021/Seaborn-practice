@@ -1,6 +1,6 @@
-# 📈 Matplotlib Practice – Visualizing Data from Basics to Real Use Cases
+# 📈 Seaborne Practice – Visualizing Data from Basics to Real Use Cases
 
-![Matplotlib Banner](https://github.com/piyushyadav0021/Matplotlip-practice/blob/main/assests/banners.png)  
+![Seaborne Banner](https://github.com/piyushyadav0021/Matplotlip-practice/blob/main/assests/banners.png)  
 > *A complete hands-on journey through Matplotlib — from simple plots to real-world dataset visualizations.*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
